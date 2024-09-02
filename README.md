@@ -24,15 +24,4 @@ Este projeto é um aplicativo de email desenvolvido em Kotlin usando Jetpack Com
 ### Detalhamento das Seções:
 **Funcionalidades: Criação de conta, Caixa de entrada, Navegação por Calendário, Filtro de e-mail, Barra de navegação inferior, Barra Superior (Topp AppBar);
 **Arquitetura** MVVM (Model-View-ViewModel);
-**Cores**
-<resources>
-    <color name="background">#ff182430</color>
-    <color name="topbar">#3B4B59</color>
-    <color name="red_locaweb">#FFEB3850</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-</resources>
-
-
-
 **Contato**: felipe.pierri01@gmail.com 
